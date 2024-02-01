@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/NumberGuess.dir/main.c.o -o NumberGuess.exe -Wl,--out-implib,libNumberGuess.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
